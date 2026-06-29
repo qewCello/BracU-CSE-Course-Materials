@@ -308,16 +308,6 @@ Department of Computer Science & Engineering
 
 BRAC University
 
-Interested in:
-
-- Machine Learning
-- Artificial Intelligence
-- NLP
-- Product & Technology
-- Data Science
-
----
-
 # Citation
 
 If you use this project in your research or academic work, please cite the accompanying paper.
