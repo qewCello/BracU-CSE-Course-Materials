@@ -199,24 +199,7 @@ Emergency-Service-Portal
 └── Admin Dashboard
 ```
 
----
 
-# 📸 Screenshots
-
-Screenshots can be added here.
-
-Example:
-
-```
-screenshots/
-│
-├── homepage.png
-├── dashboard.png
-├── healthcare.png
-├── volunteer.png
-├── sos.png
-└── admin.png
-```
 
 ---
 
@@ -312,14 +295,3 @@ is included in the repository.
 
 ---
 
-# ⚠️ Note
-
-This repository is maintained for academic and portfolio purposes.
-
-The original source code is currently unavailable. The repository contains comprehensive project documentation describing the complete system architecture, implementation, database design, and individual team contributions.
-
----
-
-# 📜 License
-
-This project is intended for educational purposes only.
